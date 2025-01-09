@@ -1,0 +1,124 @@
+.loader-wrapper {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader {
+  width: 48px;
+  height: 48px;
+  border: 5px solid;
+  border-color: var(--initial-loader-color, #048c7f) transparent;
+  border-radius: 50%;
+  display: inline-block;
+  box-sizing: border-box;
+  animation: rotation 1s linear infinite;
+}
+
+@keyframes rotation {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.fs_8 {
+  font-size: 8px !important;
+}
+
+.fs_9 {
+  font-size: 9px !important;
+}
+
+.fs_10 {
+  font-size: 10px !important;
+}
+
+.fs_11 {
+  font-size: 11px !important;
+}
+
+.fs_12 {
+  font-size: 12px !important;
+}
+
+.fs_13 {
+  font-size: 13px !important;
+}
+
+.fs_14 {
+  font-size: 14px !important;
+}
+
+.fs_15 {
+  font-size: 15px !important;
+}
+
+.fs_16 {
+  font-size: 16px !important;
+}
+
+.fs_17 {
+  font-size: 17px !important;
+}
+
+.fs_18 {
+  font-size: 18px !important;
+}
+
+.fs_19 {
+  font-size: 19px !important;
+}
+
+.fs_20 {
+  font-size: 20px !important;
+}
+
+.fs_21 {
+  font-size: 21px !important;
+}
+
+.fs_22 {
+  font-size: 22px !important;
+}
+
+.fs_23 {
+  font-size: 23px !important;
+}
+
+.fs_24 {
+  font-size: 24px !important;
+}
+
+.fs_25 {
+  font-size: 25px !important;
+}
+
+.fs_26 {
+  font-size: 26px !important;
+}
+
+.fs_27 {
+  font-size: 27px !important;
+}
+
+.fs_28 {
+  font-size: 28px !important;
+}
+
+.fs_29 {
+  font-size: 29px !important;
+}
+
+.fs_30 {
+  font-size: 30px !important;
+}

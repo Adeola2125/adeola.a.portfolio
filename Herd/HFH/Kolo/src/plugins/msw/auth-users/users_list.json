@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "name": "Adeola Adeoye",
+      "code": "KC000ff1",
+      "amount": 5000,
+      "top_saver": true,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "created_at": "2025-01-04",
+      "start_date": "2025-01-01",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Braimoh-Igbo Ibroheem",
+      "code": "KC000ff2",
+      "amount": 200,
+      "created_at": "2025-01-04",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 200000,
+      "start_date": "2025-01-04",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Deborah",
+      "code": "KC0003",
+      "amount": 200,
+      "created_at": "",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Karimah Omotoyosi Kasali",
+      "code": "KC0004",
+      "amount": 12700,
+      "balance_before": 5700,
+      "created_at": "2025-01-04",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Olamide Faith",
+      "code": "KC0005",
+      "amount": 200,
+      "created_at": "2025-01-04",
+      "top_saver": true,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Firdaos Nulds",
+      "code": "KC0006",
+      "amount": 30200,
+      "created_at": "2025-01-01",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 300000,
+      "start_date": "2025-01-01",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Rofiat Adeoye",
+      "code": "KC0007",
+      "amount": 3000,
+      "created_at": "2025-01-01",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "start_date": "2025-01-01",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Ope Sidikat Yewande",
+      "code": "KC0008",
+      "amount": 8200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Johnson Grace",
+      "code": "KC0009",
+      "amount": 24200,
+      "balance_before": 22200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 300000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Shakirat Ajoke Doherty",
+      "code": "KC0010",
+      "amount": 1400,
+      "balance_before": 900,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08"
+    },
+    {
+      "name": "Adeoye Sodeeq Ademola",
+      "code": "KC0011",
+      "amount": 200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 300000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Mutiat Oduola",
+      "code": "KC0012",
+      "amount": 30150,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 1000000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Yussuf Omobolaji Kareem",
+      "code": "KC0013",
+      "amount": 2200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Rafiu Olashile Oyebanji",
+      "code": "KC0014",
+      "amount": 5200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30",
+      "kolo_charge": "paid"
+    },
+    {
+      "name": "Mr Folorunsho Vications",
+      "code": "KC0015",
+      "amount": 4200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Mr Mike Vications",
+      "code": "KC0016",
+      "amount": 4200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Saheed Opeyemi Abdullateef",
+      "code": "KC0017",
+      "amount": 2700,
+      "balance_before": 1700,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08"
+    },
+    {
+      "name": "Kabir Mustapha",
+      "code": "KC0018",
+      "amount": 4100,
+      "balance_before": 3500,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08",
+      "kolo_charge": "paid"
+    },
+    {
+      "name": "Olayanu Akinola",
+      "code": "KC0019",
+      "amount": 3200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 300000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Nautik Oluwadamilola Alabe",
+      "code": "KC0020",
+      "amount": 9200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 1000000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Faosiyah Damilola Abdulrasheed",
+      "code": "KC0021",
+      "amount": 1200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Rukayat Mojisola Abdullahi",
+      "code": "KC0022",
+      "amount": 1200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Busola Oluwatosin Akintolure",
+      "code": "KC0023",
+      "amount": 5200,
+      "balance_before": 4200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 0,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08"
+    },
+    {
+      "name": "Alaka Hussenat",
+      "code": "KC0024",
+      "amount": 10650,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 200000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30"
+    },
+    {
+      "name": "Uthman Olanrewaju Awesu",
+      "code": "KC0025",
+      "amount": 1200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 50000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30"
+    },
+    {
+      "name": "Alowonle Samuel Oluwatosin",
+      "code": "KC0026",
+      "amount": 2700,
+      "balance_before": 1700,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 90000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08",
+      "kolo_charge": "paid"
+    },
+    {
+      "name": "Munirat Ipaye",
+      "code": "KC0027",
+      "amount": 2200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 300000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "kolo_charge": "paid"
+    },
+    {
+      "name": "Olaitan Joseph",
+      "code": "KC0028",
+      "amount": 5200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 350000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-12-30",
+      "kolo_charge": "paid"
+    },
+    {
+      "name": "Enitan Makendengue Akinyemi",
+      "code": "KC0029",
+      "amount": 4200,
+      "balance_before": 2200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 500000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08"
+    },
+    {
+      "name": "Phuad Opeyemi Williams",
+      "code": "KC0030",
+      "amount": 25200,
+      "balance_before": 10200,
+      "created_at": "2025-01-05",
+      "top_saver": false,
+      "interest_rate": 50.0,
+      "target": 200000,
+      "start_date": "2025-01-05",
+      "end_date": "2025-06-30",
+      "last_updated": "2025-01-08",
+      "kolo_charge": "paid"
+    }
+  ],
+
+  "top_savers": [
+    {
+      "name": "Assiduous Smith",
+      "code": "KC0001",
+      "amount": 75000,
+      "created_at": "2024-12-26",
+      "top_saver": true,
+      "interest_rate": 50.0,
+      "target": 500000
+    },
+    {
+      "name": "Assiduous Kelly",
+      "code": "KC0001",
+      "amount": 7500000.0,
+      "created_at": "2024-12-26",
+      "top_saver": true,
+      "interest_rate": 50.0,
+      "target": 500000
+    },
+    {
+      "name": "Assiduous Stella",
+      "code": "KC0001",
+      "amount": 7500000.0,
+      "created_at": "2024-12-26",
+      "top_saver": true,
+      "interest_rate": 50.0,
+      "target": 500000
+    }
+  ],
+
+  "top_categories": [
+    {
+      "cat_name": "Business Upgrade",
+      "total_members": "2",
+      "link": "https://chat.whatsapp.com/JwARMvHxUTZ4C1bcoX1rbB"
+    },
+    {
+      "cat_name": "Household Appliances",
+      "total_members": "5",
+      "link": "https://chat.whatsapp.com/JwARMvHxUTZ4C1bcoX1rbB"
+    },
+    {
+      "cat_name": "Land & Properties",
+      "total_members": "10",
+      "link": "https://chat.whatsapp.com/JwARMvHxUTZ4C1bcoX1rbB"
+    }
+  ],
+
+  "overall_top_members": [
+    {
+      "code_id": "KC0006",
+      "interest_rate": "15%",
+      "leading_amt": 30000.0,
+      "category": "300k"
+    },
+    {
+      "code_id": "KC0012",
+      "interest_rate": "15%",
+      "leading_amt": 30000.0,
+      "category": "1M"
+    },
+    {
+      "code_id": "KC0030",
+      "interest_rate": "15%",
+      "leading_amt": 25000.0,
+      "category": "200k"
+    }
+  ],
+
+  "members_that_just_saved": [
+    { "last_updated": "just now", "code_id": "KC0001" },
+    { "last_updated": "few minutes ago", "code_id": "KC0002" },
+    { "last_updated": "2 hours ago", "code_id": "KC0003" },
+    { "last_updated": "just now", "code_id": "KC0004" },
+    { "last_updated": "just now", "code_id": "KC0005" },
+    { "last_updated": "few minutes ago", "code_id": "KC0006" },
+    { "last_updated": "just now", "code_id": "KC0007" },
+    { "last_updated": "few minutes ago", "code_id": "KC0008" },
+    { "last_updated": "just now", "code_id": "KC0004" },
+    { "last_updated": "just now", "code_id": "KC0003" },
+    { "last_updated": "just now", "code_id": "KC0002" },
+    { "last_updated": "3 hours ago", "code_id": "KC0001" },
+    { "last_updated": "just now", "code_id": "KC0013" },
+    { "last_updated": "an hour ago", "code_id": "KC0014" },
+    { "last_updated": "just now", "code_id": "KC0015" },
+    { "last_updated": "few minutes ago", "code_id": "KC0016" },
+    { "last_updated": "just now", "code_id": "KC0017" },
+    { "last_updated": "just now", "code_id": "KC0018" },
+    { "last_updated": "about an hour ago", "code_id": "KC0019" },
+    { "last_updated": "just now", "code_id": "KC0020" },
+    { "last_updated": "just now", "code_id": "KC0021" },
+    { "last_updated": "just now", "code_id": "KC0022" },
+    { "last_updated": "few minutes ago", "code_id": "KC0023" },
+    { "last_updated": "just now", "code_id": "KC0024" },
+    { "last_updated": "just now", "code_id": "KC0025" },
+    { "last_updated": "about an hour ago", "code_id": "KC0026" }
+  ]
+}

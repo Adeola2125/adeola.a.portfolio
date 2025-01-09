@@ -1,0 +1,14 @@
+.page-wrapper {
+    min-height: calc(100vh - 162px);
+    padding: 40px 80px;
+    padding-bottom: 30px;
+
+    @media screen and (max-width: 600px){
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+}
+
+.text-primary {
+    color: #048c7f !important;
+}
