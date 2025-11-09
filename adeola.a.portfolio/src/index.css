@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Dark / Sharp Black Theme */
+    --background: 0 0% 0%; /* pure black */
+    --foreground: 0 0% 100%; /* white text */
+
+  /* Cards and popovers are white with black text */
+  --card: 0 0% 100%;
+  --card-foreground: 0 0% 0%;
+
+  --popover: 0 0% 100%;
+  --popover-foreground: 0 0% 0%;
+
+    /* Primary teal (sharp) */
+    --primary: 174 72% 44%;
+    --primary-foreground: 0 0% 100%;
+
+  /* Secondary and muted tokens map to white/black to keep palette strict */
+  --secondary: 0 0% 100%;
+  --secondary-foreground: 0 0% 0%;
+
+  --muted: 0 0% 96%;
+  --muted-foreground: 0 0% 30%;
+
+    --accent: 174 72% 44%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 0 0% 18%;
+    --input: 0 0% 14%;
+    --ring: 174 72% 44%;
+
+    --radius: 1rem;
+
+    /* Creative Portfolio Tokens */
+    --teal-primary: 174 72% 44%;
+    --teal-light: 174 60% 54%;
+    --teal-dark: 174 72% 30%;
+    --teal-glow: 174 80% 60%;
+    --gradient-primary: linear-gradient(135deg, hsl(174 72% 44%) 0%, hsl(174 80% 60%) 100%);
+  /* gradients should only use teal and white */
+  --gradient-secondary: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(174 72% 44% / 0.06) 100%);
+    --gradient-dark: linear-gradient(135deg, hsl(174 72% 30%) 0%, hsl(174 50% 20%) 100%);
+    --shadow-glow: 0 0 40px hsl(174 72% 44% / 0.35);
+    --shadow-soft: 0 10px 40px -10px hsl(0 0% 0% / 0.6);
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .gradient-text {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-teal-light;
+  }
+
+  .glass-effect {
+    /* Card style: white surface with black text */
+    @apply bg-card text-card-foreground backdrop-blur-sm border border-border/10;
+  }
+
+  .hover-lift {
+    @apply transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl;
+  }
+
+  .section-padding {
+    @apply py-20 px-6 md:px-12 lg:px-20;
+  }
+}
+
+@layer utilities {
+  /* Floating Action Button utilities */
+  .fab-root {
+    position: fixed;
+    right: 1.25rem;
+    bottom: 1.25rem;
+    z-index: 60;
+  }
+
+  .fab-button {
+    @apply w-14 h-14 rounded-full flex items-center justify-center text-white shadow-lg;
+    background: hsl(var(--primary));
+  }
+
+  .fab-backdrop {
+    @apply w-12 h-12 rounded-full absolute inset-0 m-auto opacity-20 blur-2xl;
+    background: hsl(var(--teal-glow));
+  }
+
+  .fab-item {
+    @apply w-12 h-12 rounded-full flex items-center justify-center text-white shadow-md;
+    background: hsl(var(--primary));
+  }
+}
