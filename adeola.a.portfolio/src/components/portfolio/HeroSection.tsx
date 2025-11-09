@@ -100,16 +100,10 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-primary to-teal-light rounded-3xl blur-2xl opacity-30 animate-glow"></div>
               <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-3xl overflow-hidden border-4 border-foreground shadow-2xl">
                 <img 
-                  src="/public/adeola.jpeg"
+                  src="public/adeola.jpeg"
                   alt="Professional Photo"
                   className="w-full h-full object-cover"
                 />
-                {/* <div className="w-full h-full bg-gradient-to-br from-secondary to-primary/20 flex items-center justify-center">
-                  <div className="text-center text-muted-foreground">
-                    <p className="text-lg font-medium">Professional Photo</p>
-                    <p className="text-sm mt-2">Place your image here</p>
-                  </div>
-                </div> */}
               </div>
             </div>
           </div>
