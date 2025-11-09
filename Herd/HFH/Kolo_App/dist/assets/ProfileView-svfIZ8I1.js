@@ -1,1 +1,0 @@
-import{_ as t}from"./_plugin-vue_export-helper-x3n3nnut.js";import{o as a,c,b as e,w as o,C as r,O as s,F as l}from"./index-iwMIQdrE.js";const n={};function _(f,i){return a(),c("section",null,[e(l,null,{default:o(()=>[e(r,{cols:"12"},{default:o(()=>[e(s)]),_:1})]),_:1})])}const m=t(n,[["render",_]]);export{m as default};

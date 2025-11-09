@@ -1,1 +1,0 @@
-const d=r=>r==null||r===""?!0:!!(Array.isArray(r)&&r.length===0),o=r=>r==null,c=r=>Array.isArray(r)&&r.length===0,f=r=>{const a=/^#?([a-f\d])([a-f\d])([a-f\d])$/i;r=r.replace(a,(i,t,s,e)=>t+t+s+s+e+e);const n=/^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(r);return n?`${parseInt(n[1],16)},${parseInt(n[2],16)},${parseInt(n[3],16)}`:null};export{c as a,d as b,f as h,o as i};
